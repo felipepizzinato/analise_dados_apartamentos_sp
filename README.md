@@ -49,7 +49,7 @@ Os dados foram coletados por meio de **Web Scraping** e passaram por um **proces
 
 ## 📂 Estrutura do Projeto  
 - 📁 `data/` → Contém o dataset tratado  
-- 📁 `notebooks/` → Scripts Python usados na análise
+- 📁 `notebook/` → Scripts Python usados na análise
 ## 📊 Dashboard Interativo  
 🔗 **Acesse o Dashboard no Power BI:** [Clique aqui](https://app.powerbi.com/view?r=eyJrIjoiMmMxMDAzNGItZWU0NC00OTcwLWIwMGItMzZlM2ViYTdmNzI1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)  
 
